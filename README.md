@@ -1,6 +1,15 @@
 # VN_FILM
 Đồ án tốt nghiệp
 
+# SETUP
+
+
+  ### install
+    $ npm install
+
+  ### run
+    $ npm start
+
 # DEMO
 https://youtu.be/8pUKWwc1Iag
 
