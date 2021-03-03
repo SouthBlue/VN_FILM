@@ -1,6 +1,9 @@
 # VN_FILM
 graduation thesis
 
+## Backend: MySQL, Nodejs, Deep learning, Python, JavaScript, RESTful API, JWT, Express
+## Frontend: ReactJS, Material-UI, HTML/CSS.
+
 # SETUP
 
 
