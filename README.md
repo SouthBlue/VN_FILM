@@ -1,5 +1,5 @@
 # VN_FILM
-Đồ án tốt nghiệp
+graduation thesis
 
 # SETUP
 
